@@ -1,0 +1,10 @@
+.DS_Store
+.idea/
+.vscode/
+.vs/
+.cache/
+dist/
+node_modules/
+.gitignore/
+.vscode/chrome
+
